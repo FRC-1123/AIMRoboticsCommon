@@ -1,0 +1,11 @@
+#
+# AIM Robotics, FRC Team 1123
+#
+# Example configuration file for the AIM Robotics Logger.
+#
+frc.team1123.logging: trace
+
+#
+# Example logging level error
+#
+frc.team1123.error: finest
